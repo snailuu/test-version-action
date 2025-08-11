@@ -23,6 +23,9 @@ module.exports = {
       {
         // 根据你的项目构建产物目录配置，例如 'dist/**'
         assets: ["dist/**", "lib/**"],
+        labels: ["release"],
+        failTitle: "Release failed: ${nextRelease.version}",
+        failComment: false
       },
     ],
     [
