@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "GitHub Action workflow for semantic version management and release automation",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/snailuu/test-version-action.git"
