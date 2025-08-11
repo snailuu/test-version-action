@@ -1,6 +1,6 @@
 {
   "name": "@snailuu/version-action",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "GitHub Action workflow for semantic version management and release automation",
   "main": "index.js",
   "repository": {
