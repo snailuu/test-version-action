@@ -1,4 +1,14 @@
 {
+  "name": "@snailuu/version-action",
+  "version": "0.0.0",
+  "description": "GitHub Action workflow for semantic version management and release automation",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snailuu/test-version-action.git"
+  },
+  "author": "snailuu",
+  "license": "MIT",
   "scripts": {
     "semantic-release": "semantic-release"
   },
